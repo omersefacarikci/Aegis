@@ -1,5 +1,4 @@
 Aegis: Kali Linux Tool
-
 Aegis is a comprehensive security tool developed in Python, running on Kali Linux. This tool provides a range of useful modules for cybersecurity professionals and penetration testers. Aegis consists of the following 10 modules:
 
 Port Scanning and Version Detection: Scans open ports on the target device and performs detailed analysis, including version information.
