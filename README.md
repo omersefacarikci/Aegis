@@ -8,7 +8,8 @@ Platform: Kali Linux & Derivatives
 Type: CLI-based Penetration Testing Tool
 
 
-![AEGIS](https://i.imgur.com/FNpvkZ5.png)
+![AEGIS](https://github.com/omersefacarikci/Aegis/blob/main/icon.png)
+
 
 ---
 
