@@ -1,4 +1,5 @@
 🛡️ AEGIS - Ethical Hacking Terminal Toolkit
+
 Author: Ömer Sefa
 
 Version: 1.0
@@ -14,6 +15,7 @@ Type: CLI-based Penetration Testing Tool
 ---
 
 🚀 Getting Started
+
 Aegis is a penetration testing tool written in Python, running on Kali Linux. It includes port scanning, WAF detection, trojan creation, MAC address changing, and more.
 
 ❗ There is no requirements.txt file. The modules need to be installed directly.
